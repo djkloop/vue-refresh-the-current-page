@@ -1,4 +1,5 @@
-# vue-cli-test
+# vue-refresh-the-current-page
+> vue 刷新当前页面的一种实现(还有其他的思路...暂时没想到...)
 
 ## Project setup
 ```
