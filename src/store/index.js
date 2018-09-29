@@ -3,7 +3,6 @@ import Vuex from 'vuex'
 import state from './state'
 import mutations from './mutations'
 import actions from './actions'
-
 import user from './module/user'
 import route from './module/route'
 

@@ -1,7 +1,7 @@
 import Cookies from 'js-cookie'
 
 const state = {
-  includePath: JSON.parse(Cookies.get('includePath'))
+  includePath: ['home', 'about']
 }
 
 const mutations = {

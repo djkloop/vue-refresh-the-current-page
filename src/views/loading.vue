@@ -15,7 +15,7 @@ export default {
   created () {
     console.log('我是中转页面')
     setTimeout(() => {
-      this.$router.push({
+      this.$router.replace({
         name: this.$route.params.path
       })
       this.$nextTick(() => {
